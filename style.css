@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #dadada;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+div{
+    width: 120px;
+    height: 60px;
+    border-radius: 20px;
+    font-size: 1.3em;
+    font-weight: 900;
+    margin-top: 20px;
+    box-shadow:  18px 18px 26px #b3a588, -18px -18px 26px #fffffc;
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
